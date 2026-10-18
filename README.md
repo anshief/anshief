@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center"><strong>English</strong> &nbsp;|&nbsp; <a href="https://github.com/anshief/anshief/blob/main/README.es.md">Español</a></p>
 
-<!--
-**anshief/anshief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/anshief/anshief/main/assets/profile-en.png" width="100%" alt="Angie Flores — Data into decisions." />
 
-Here are some ideas to get you started:
+## Hi, I’m Angie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I connect industrial engineering with applied data science: understanding the process, preparing the data, and turning analysis into tools that help people make decisions.
+
+## Featured work / Lead prioritization
+
+**Who should a sales team contact first when it cannot reach its entire portfolio?**
+
+My thesis brings together BPMN, data preparation, K-Means segmentation, logistic regression, and Power BI to study that decision. The portfolio includes a guided research story, eight anonymized dashboard screens, and a reproducible synthetic demo.
+
+[**EXPLORE THE PROJECT →**](https://github.com/anshief/tesis-priorizacion-leads) &nbsp; / &nbsp; [Follow the journey](https://github.com/anshief/tesis-priorizacion-leads/blob/main/journey/01-problem.md) &nbsp; / &nbsp; [Dashboard](https://github.com/anshief/tesis-priorizacion-leads/blob/main/docs/en/DASHBOARD.md)
+
+| Focus | Evidence in the project |
+|---|---|
+| **Understand** | Sales process mapping and decision framing with BPMN |
+| **Analyze** | Data quality, segmentation, prediction, and Monte Carlo evaluation |
+| **Build** | Scoring package, table contract, and Power BI views |
+
+**Tools** · Python / pandas / NumPy / scikit-learn / Jupyter / Power BI / LaTeX
+
+<sub>The portfolio retains aggregate historical findings. Examples are synthetic and business identities are generalized. Historical results are not a sales increase measured in production.</sub>
